@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Munchyroll</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_watchlist">Watchlist</string>
+    <string name="nav_account">Account</string>
+    <string name="auth_login">Log In</string>
+    <string name="auth_signup">Sign Up</string>
+    <string name="auth_email">Email Address</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_username">Username</string>
+    <string name="beta_title">Munchyroll Beta</string>
+    <string name="beta_version">v1.0.0-beta</string>
+</resources>

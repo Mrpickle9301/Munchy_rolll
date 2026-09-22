@@ -1,0 +1,6 @@
+{
+  "name": "Munchyroll",
+  "description": "A sleek, ad-free anime discovery and streaming hub inspired by Munchyroll, featuring dynamic time-responsive backgrounds, trending anime, episode tracking, and watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
